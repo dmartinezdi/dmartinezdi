@@ -2,7 +2,7 @@
 - 👀 I’m interested in geoinformatics
 - 🌱 I’m currently learning Julia thoroughly for geological applications
 - 💞️ I’m looking to collaborate on geophysics initiatives.
-- 📫 How to reach me dmartinezd2@outlook.com
+- 📫 How to reach me dmartinezd2@gmail.com
 
 <!---
 dmartinezdi/dmartinezdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
